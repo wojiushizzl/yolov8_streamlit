@@ -5,7 +5,7 @@ Add some product introduction
 
 1. Clone the repo to local machine
 ```bash
-git clone https://bosch-pt-ap@dev.azure.com/bosch-pt-ap/HzP/_git/YOLOv8-streamlit-app
+git clone https://github.com/wojiushizzl/yolov8_streamlit.git
 # enter your PAT (personal access token) here if git asks for access
 ```
 2. Run docker build
